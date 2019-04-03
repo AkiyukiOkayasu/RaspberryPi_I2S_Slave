@@ -1,2 +1,2 @@
 # GenericStereoAudioCodec
-Device tree overlay to use generic I2S stereo audio codec in Raspberry pi Compute Module 3+
+Device tree overlay for generic I2S stereo audio codec with Raspberry pi Compute Module 3+
